@@ -1,29 +1,29 @@
-# web
+# Handal
 
-## Project setup
-```
+### Front End Test for PT. Inti Sinergi
+
+#### Project setup
+```bash
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+#### Compiles and hot-reloads for development
+```bash
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
+#### Compiles and minifies for production
+```bash
 yarn build
 ```
 
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
+#### Lints and fixes files
+```bash
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+#### Web Preview
+
+https://handal.now.sh/
