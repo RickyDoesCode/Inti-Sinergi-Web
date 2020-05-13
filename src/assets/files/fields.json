@@ -1,0 +1,81 @@
+[
+    {
+      "name": "Nomor Pemesanan",
+      "v-model": "nomor",
+      "type": "input"
+    },
+    {
+      "name": "Asal",
+      "v-model": "asal",
+      "type": "input",
+      "prefix": "Asal :"
+    },
+    {
+      "name": "Tujuan",
+      "v-model": "tujuan",
+      "type": "input",
+      "prefix": "Tujuan :"
+    },
+    {
+      "name": "ETA",
+      "v-model": "eta",
+      "type": "date"
+    },
+    {
+      "name": "Status",
+      "v-model": "status",
+      "type": "select",
+      "options": [
+        "Paid",
+        "Pilih Forwarder",
+        "Delivering",
+        "Delivered"
+      ],
+      "half": true
+    },
+    {
+      "name": "Tipe",
+      "v-model": "tipe",
+      "type": "select",
+      "options": [
+        "Import",
+        "Export",
+        "Local"
+      ],
+      "half": true
+    },
+    {
+      "name": "Tipe Kargo",
+      "v-model": "kargo",
+      "type": "select",
+      "options": [
+        "General",
+        "Special",
+        "Dangerous"
+      ],
+      "half": true
+    },
+    {
+      "name": "Incoterms",
+      "v-model": "incoterms",
+      "type": "select",
+      "options": [
+        "FAS",
+        "FOB",
+        "CFR",
+        "CIF"
+      ],
+      "half": true
+    },
+    {
+      "name": "Tipe Kontainer",
+      "v-model": "kontainer",
+      "type": "select",
+      "options": [
+        "Open Top",
+        "Reefer",
+        "Flat Rack",
+        "Platform"
+      ]
+    }
+  ]

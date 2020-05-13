@@ -1,0 +1,430 @@
+[
+    {
+        "nomor": "1",
+        "asal": "Port of Singapore, Singapore",
+        "tujuan": "Tanjung Priuk, Indonesia",
+        "eta": "31 Oktober 2020",
+        "status": "Pilih Forwarder",
+        "tipe": "Import",
+        "kargo": "General",
+        "incoterms": "FOB",
+        "kontainer": "Flat Rack",
+        "detail": {
+            "Alamat Pengiriman": [
+                "Kevin Himawan",
+                "kevinhimawan@gmail.com",
+                "089547328596",
+                "Jl. Taman Kedoya Permai 3, Blok 5 No. 3, Kebayoran Lama, Jakarta Selatan, 12345"
+            ],
+            "Catatan": "Lorem Ipsum Dolor Sit Amet",
+            "Total": {
+                "Jumlah": "20,000 pc",
+                "Berat": "100,000 kg",
+                "Volume": "100,000 kg",
+                "Harga Kisaran": "IDR 200,000,000"
+            },
+            "Daftar Barang Pengiriman": [
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                }
+            ],
+            "Dokumen Pribadi": [
+                {
+                    "nama": "SIUP",
+                    "qty": 1
+                },
+                {
+                    "nama": "TDP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Passport",
+                    "qty": 3
+                },
+                {
+                    "nama": "NIK Import",
+                    "qty": 2
+                },
+                {
+                    "nama": "NIK Export",
+                    "qty": 3
+                },
+                {
+                    "nama": "NPWP",
+                    "qty": 1
+                },
+                {
+                    "nama": "KTP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Lisensi",
+                    "qty": 3
+                },
+                {
+                    "nama": "Sertifikat",
+                    "qty": 2
+                },
+                {
+                    "nama": "Others",
+                    "qty": 3
+                }
+            ],
+            "Dokumen Pengiriman": [
+                {
+                    "nama": "Daftar Invoice",
+                    "qty": 1
+                },
+                {
+                    "nama": "Daftar Packing",
+                    "qty": 1
+                }
+            ]
+        }
+    },
+    {
+        "nomor": "2",
+        "asal": "Port of Singapore, Singapore",
+        "tujuan": "Tanjung Priuk, Indonesia",
+        "eta": "31 Oktober 2020",
+        "status": "Pilih Forwarder",
+        "tipe": "Import",
+        "kargo": "General",
+        "incoterms": "FOB",
+        "kontainer": "Flat Rack",
+        "detail": {
+            "Alamat Pengiriman": [
+                "Kevin Himawan",
+                "kevinhimawan@gmail.com",
+                "089547328596",
+                "Jl. Taman Kedoya Permai 3, Blok 5 No. 3, Kebayoran Lama, Jakarta Selatan, 12345"
+            ],
+            "Catatan": "Lorem Ipsum Dolor Sit Amet",
+            "Total": {
+                "Jumlah": "20,000 pc",
+                "Berat": "100,000 kg",
+                "Volume": "100,000 kg",
+                "Harga Kisaran": "IDR 200,000,000"
+            },
+            "Daftar Barang Pengiriman": [
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                }
+            ],
+            "Dokumen Pribadi": [
+                {
+                    "nama": "SIUP",
+                    "qty": 1
+                },
+                {
+                    "nama": "TDP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Passport",
+                    "qty": 3
+                },
+                {
+                    "nama": "NIK Import",
+                    "qty": 2
+                },
+                {
+                    "nama": "NIK Export",
+                    "qty": 3
+                },
+                {
+                    "nama": "NPWP",
+                    "qty": 1
+                },
+                {
+                    "nama": "KTP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Lisensi",
+                    "qty": 3
+                },
+                {
+                    "nama": "Sertifikat",
+                    "qty": 2
+                },
+                {
+                    "nama": "Others",
+                    "qty": 3
+                }
+            ],
+            "Dokumen Pengiriman": [
+                {
+                    "nama": "Daftar Invoice",
+                    "qty": 1
+                },
+                {
+                    "nama": "Daftar Packing",
+                    "qty": 1
+                }
+            ]
+        }
+    },
+    {
+        "nomor": "3",
+        "asal": "Port of Singapore, Singapore",
+        "tujuan": "Tanjung Priuk, Indonesia",
+        "eta": "31 Oktober 2020",
+        "status": "Pilih Forwarder",
+        "tipe": "Import",
+        "kargo": "General",
+        "incoterms": "FOB",
+        "kontainer": "Flat Rack",
+        "detail": {
+            "Alamat Pengiriman": [
+                "Kevin Himawan",
+                "kevinhimawan@gmail.com",
+                "089547328596",
+                "Jl. Taman Kedoya Permai 3, Blok 5 No. 3, Kebayoran Lama, Jakarta Selatan, 12345"
+            ],
+            "Catatan": "Lorem Ipsum Dolor Sit Amet",
+            "Total": {
+                "Jumlah": "20,000 pc",
+                "Berat": "100,000 kg",
+                "Volume": "100,000 kg",
+                "Harga Kisaran": "IDR 200,000,000"
+            },
+            "Daftar Barang Pengiriman": [
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                }
+            ],
+            "Dokumen Pribadi": [
+                {
+                    "nama": "SIUP",
+                    "qty": 1
+                },
+                {
+                    "nama": "TDP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Passport",
+                    "qty": 3
+                },
+                {
+                    "nama": "NIK Import",
+                    "qty": 2
+                },
+                {
+                    "nama": "NIK Export",
+                    "qty": 3
+                },
+                {
+                    "nama": "NPWP",
+                    "qty": 1
+                },
+                {
+                    "nama": "KTP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Lisensi",
+                    "qty": 3
+                },
+                {
+                    "nama": "Sertifikat",
+                    "qty": 2
+                },
+                {
+                    "nama": "Others",
+                    "qty": 3
+                }
+            ],
+            "Dokumen Pengiriman": [
+                {
+                    "nama": "Daftar Invoice",
+                    "qty": 1
+                },
+                {
+                    "nama": "Daftar Packing",
+                    "qty": 1
+                }
+            ]
+        }
+    },
+    {
+        "nomor": "4",
+        "asal": "Port of Singapore, Singapore",
+        "tujuan": "Tanjung Priuk, Indonesia",
+        "eta": "31 Oktober 2020",
+        "status": "Pilih Forwarder",
+        "tipe": "Import",
+        "kargo": "General",
+        "incoterms": "FOB",
+        "kontainer": "Flat Rack",
+        "detail": {
+            "Alamat Pengiriman": [
+                "Kevin Himawan",
+                "kevinhimawan@gmail.com",
+                "089547328596",
+                "Jl. Taman Kedoya Permai 3, Blok 5 No. 3, Kebayoran Lama, Jakarta Selatan, 12345"
+            ],
+            "Catatan": "Lorem Ipsum Dolor Sit Amet",
+            "Total": {
+                "Jumlah": "20,000 pc",
+                "Berat": "100,000 kg",
+                "Volume": "100,000 kg",
+                "Harga Kisaran": "IDR 200,000,000"
+            },
+            "Daftar Barang Pengiriman": [
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                },
+                {
+                    "nama": "PCB Board Merk A",
+                    "HS Code": "12345678",
+                    "Jumlah": "20,000",
+                    "Berat": "10,000 kg",
+                    "Harga Barang": "IDR 5,000",
+                    "Volume": "10,000",
+                    "Total Harga": "IDR 250,000,000,000"
+                }
+            ],
+            "Dokumen Pribadi": [
+                {
+                    "nama": "SIUP",
+                    "qty": 1
+                },
+                {
+                    "nama": "TDP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Passport",
+                    "qty": 3
+                },
+                {
+                    "nama": "NIK Import",
+                    "qty": 2
+                },
+                {
+                    "nama": "NIK Export",
+                    "qty": 3
+                },
+                {
+                    "nama": "NPWP",
+                    "qty": 1
+                },
+                {
+                    "nama": "KTP",
+                    "qty": 2
+                },
+                {
+                    "nama": "Lisensi",
+                    "qty": 3
+                },
+                {
+                    "nama": "Sertifikat",
+                    "qty": 2
+                },
+                {
+                    "nama": "Others",
+                    "qty": 3
+                }
+            ],
+            "Dokumen Pengiriman": [
+                {
+                    "nama": "Daftar Invoice",
+                    "qty": 1
+                },
+                {
+                    "nama": "Daftar Packing",
+                    "qty": 1
+                }
+            ]
+        }
+    }
+]
